@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>70039737: Wachara Nouwarat - Trade Account Report</title>
+    <meta name="generator" content="client terminal">
+    <style type="text/css">
+    <!--
+    @media screen {
+      td { font: 8pt  Tahoma,Arial; }
+      th { font: 10pt Tahoma,Arial; }
+    }
+    @media print {
+      td { font: 7pt Tahoma,Arial; }
+      th { font: 9pt Tahoma,Arial; }
+    }
+    .msdate { mso-number-format:"General Date"; }
+    .mspt   { mso-number-format:\#\,\#\#0\.00;  }
+    body {margin:1px;}
+    //-->
+    </style>
+  </head>
+<body>
+<div align="center">
+<table cellspacing="1" cellpadding="3" border="0">
+   <tr align="center">
+      <td colspan="13"><div style="font: 14pt Tahoma"><b>Trade Account Report</b><br></div></td>
+   </tr>
+   <tr align="left">
+      <th colspan="3" nowrap align="right" style="width: 220px; height: 20px">Name:</th>
+      <th colspan="10" nowrap align="left" style="width: 220px; height: 20px"><b>Wachara Nouwarat</b></th>
+   </tr>
+   <tr align="left">
+      <th colspan="3" nowrap align="right" style="width: 220px; height: 20px">Account:</th>
+      <th colspan="10" nowrap align="left" style="width: 220px; height: 20px"><b>70039737&nbsp;(USD,&nbsp;MetaQuotes-Demo,&nbsp;demo,&nbsp;Hedge<!--ACCOUNT_MARGIN_TYPE-->)</b></th>
+   </tr>
+   <tr align="left">
+       <th colspan="3" nowrap align="right" style="width: 220px; height: 20px">Company:</th>
+       <th colspan="10" nowrap align="left" style="width: 220px; height: 20px"><b>MetaQuotes Software Corp.</b></th>
+   </tr>
+   <tr align="left">
+       <th colspan="3" nowrap align="right" style="width: 220px; height: 20px">Date:</th>
+       <th colspan="10" nowrap align="left" style="width: 220px; height: 20px"><b>2023.06.11 01:06</b></th>
+   </tr>
+   <tr align="center">
+      <th colspan="13" style="height: 25px"><div style="font: 10pt Tahoma"><b>Positions</b></div></th>
+   </tr>
+   <tr align="right" bgcolor="#E5F0FC">
+      <td nowrap style="width: 100px; height: 30px"><b>Symbol</b></td>
+      <td nowrap style="width: 65px"><b>Position</b></td>
+      <td nowrap style="width: 140px"><b>Time</b></td>
+      <td nowrap style="width: 50px"><b>Type</b></td>
+      <td nowrap style="width: 70px"><b>Volume</b></td>
+      <td nowrap style="width: 50px"><b>Price</b></td>
+      <td nowrap style="width: 50px"><b>S / L</b></td>
+      <td nowrap style="width: 50px"><b>T / P</b></td>
+      <td nowrap style="width: 50px"><b>Market Price</b></td>
+      <td nowrap style="width: 50px"><b>Swap</b></td>
+      <td nowrap style="width: 50px"><b>Profit</b></td>
+      <td nowrap style="width: 125px"><b>Comment</b></td>
+   </tr> 
+   <tr align="right">
+     <td colspan="9" style="height: 30px"></td>
+     <td nowrap><b>0.00</b></td>
+     <td nowrap><b>0.00</b></td>
+     <td></td>
+   </tr>
+   <tr align="center">
+      <th colspan="13" style="height: 25px"><div style="font: 10pt Tahoma"><b>Orders</b></div></th>
+   </tr>
+   <tr align="right" bgcolor="#E5F0FC">
+      <td nowrap style="height: 30px"><b>Symbol</b></td>
+      <td><b>Order</b></td>
+      <td><b>Open Time</b></td>
+      <td><b>Type</b></td>
+      <td><b>Volume</b></td>
+      <td><b>Price</b></td>
+      <td><b>S / L</b></td>
+      <td><b>T / P</b></td>
+      <td><b>Market Price</b></td>
+      <td colspan="2"><b>State</b></td>
+      <td colspan="2"><b>Comment</b></td>
+   </tr> 
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742057509</td><td>2023.06.06 13:03:09.561</td><td>buy stop</td><td>99.99 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742057933</td><td>2023.06.06 13:03:24.453</td><td>buy stop</td><td>99.98 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742058481</td><td>2023.06.06 13:03:43.657</td><td>buy stop</td><td>99.97 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742058761</td><td>2023.06.06 13:03:55.154</td><td>buy stop</td><td>99.96 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742059427</td><td>2023.06.06 13:04:10.155</td><td>buy stop</td><td>99.95 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742060009</td><td>2023.06.06 13:04:27.747</td><td>buy stop</td><td>99.94 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742060340</td><td>2023.06.06 13:04:39.815</td><td>buy stop</td><td>99.93 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742060703</td><td>2023.06.06 13:04:54.272</td><td>buy stop</td><td>99.92 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742061221</td><td>2023.06.06 13:05:10.543</td><td>buy stop</td><td>99.91 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742061630</td><td>2023.06.06 13:05:24.478</td><td>buy stop</td><td>99.9 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742062023</td><td>2023.06.06 13:05:40.235</td><td>buy stop</td><td>99.89 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742062321</td><td>2023.06.06 13:05:53.186</td><td>buy stop</td><td>99.88 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742062595</td><td>2023.06.06 13:06:04.575</td><td>buy stop</td><td>99.87 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742063017</td><td>2023.06.06 13:06:20.399</td><td>buy stop</td><td>99.86 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742063343</td><td>2023.06.06 13:06:33.371</td><td>buy stop</td><td>99.85 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742063691</td><td>2023.06.06 13:06:46.973</td><td>buy stop</td><td>99.84 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742063982</td><td>2023.06.06 13:06:59.497</td><td>buy stop</td><td>99.83 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742064347</td><td>2023.06.06 13:07:11.117</td><td>buy stop</td><td>99.82 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742064716</td><td>2023.06.06 13:07:23.521</td><td>buy stop</td><td>99.81 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742065041</td><td>2023.06.06 13:07:35.115</td><td>buy stop</td><td>99.8 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742065368</td><td>2023.06.06 13:07:46.364</td><td>buy stop</td><td>99.79 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742065771</td><td>2023.06.06 13:08:00.013</td><td>buy stop</td><td>99.78 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742067245</td><td>2023.06.06 13:08:25.963</td><td>buy stop</td><td>99.77 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742068134</td><td>2023.06.06 13:08:42.182</td><td>buy stop</td><td>99.76 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742068576</td><td>2023.06.06 13:08:55.950</td><td>buy stop</td><td>99.75 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742069026</td><td>2023.06.06 13:09:08.903</td><td>buy stop</td><td>99.74 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742069413</td><td>2023.06.06 13:09:20.454</td><td>buy stop</td><td>99.73 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742069848</td><td>2023.06.06 13:09:31.825</td><td>buy stop</td><td>99.72 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742070269</td><td>2023.06.06 13:09:44.865</td><td>buy stop</td><td>99.71 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742070702</td><td>2023.06.06 13:09:59.620</td><td>buy stop</td><td>99.7 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742071174</td><td>2023.06.06 13:10:11.275</td><td>buy stop</td><td>99.69 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742071757</td><td>2023.06.06 13:10:28.385</td><td>buy stop</td><td>99.68 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742072237</td><td>2023.06.06 13:10:39.403</td><td>buy stop</td><td>99.67 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742072551</td><td>2023.06.06 13:10:49.044</td><td>buy stop</td><td>99.66 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742072908</td><td>2023.06.06 13:11:03.566</td><td>buy stop</td><td>99.65 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742073281</td><td>2023.06.06 13:11:16.604</td><td>buy stop</td><td>99.64 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742075919</td><td>2023.06.06 13:12:52.276</td><td>buy stop</td><td>99.63 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742077007</td><td>2023.06.06 13:13:29.475</td><td>buy stop</td><td>99.62 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742077432</td><td>2023.06.06 13:13:42.391</td><td>buy stop</td><td>99.61 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742077744</td><td>2023.06.06 13:13:53.991</td><td>buy stop</td><td>99.6 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742078065</td><td>2023.06.06 13:14:04.699</td><td>buy stop</td><td>99.59 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742078410</td><td>2023.06.06 13:14:16.203</td><td>buy stop</td><td>99.58 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742078800</td><td>2023.06.06 13:14:30.622</td><td>buy stop</td><td>99.57 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742079271</td><td>2023.06.06 13:14:42.010</td><td>buy stop</td><td>99.56 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742079937</td><td>2023.06.06 13:14:54.179</td><td>buy stop</td><td>99.55 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742080301</td><td>2023.06.06 13:15:03.830</td><td>buy stop</td><td>99.54 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742080682</td><td>2023.06.06 13:15:14.538</td><td>buy stop</td><td>99.53 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742081044</td><td>2023.06.06 13:15:25.484</td><td>buy stop</td><td>99.52 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742081334</td><td>2023.06.06 13:15:34.397</td><td>buy stop</td><td>99.51 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742081645</td><td>2023.06.06 13:15:44.240</td><td>buy stop</td><td>99.5 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742081936</td><td>2023.06.06 13:15:54.209</td><td>buy stop</td><td>99.49 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742082190</td><td>2023.06.06 13:16:03.917</td><td>buy stop</td><td>99.48 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742082557</td><td>2023.06.06 13:16:16.092</td><td>buy stop</td><td>99.47 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742082827</td><td>2023.06.06 13:16:27.236</td><td>buy stop</td><td>99.46 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742083312</td><td>2023.06.06 13:16:40.337</td><td>buy stop</td><td>99.45 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742083614</td><td>2023.06.06 13:16:49.512</td><td>buy stop</td><td>99.44 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742083855</td><td>2023.06.06 13:16:58.830</td><td>buy stop</td><td>99.43 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742084171</td><td>2023.06.06 13:17:08.843</td><td>buy stop</td><td>99.42 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742084523</td><td>2023.06.06 13:17:20.039</td><td>buy stop</td><td>99.41 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742084881</td><td>2023.06.06 13:17:33.875</td><td>buy stop</td><td>99.4 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742085305</td><td>2023.06.06 13:17:46.027</td><td>buy stop</td><td>99.39 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742085682</td><td>2023.06.06 13:17:57.092</td><td>buy stop</td><td>99.38 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742086081</td><td>2023.06.06 13:18:08.140</td><td>buy stop</td><td>99.37 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742086657</td><td>2023.06.06 13:18:20.634</td><td>buy stop</td><td>99.36 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742087202</td><td>2023.06.06 13:18:32.583</td><td>buy stop</td><td>99.35 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742087610</td><td>2023.06.06 13:18:43.079</td><td>buy stop</td><td>99.34 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742087856</td><td>2023.06.06 13:18:52.811</td><td>buy stop</td><td>99.33 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742088190</td><td>2023.06.06 13:19:03.656</td><td>buy stop</td><td>99.32 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742088595</td><td>2023.06.06 13:19:13.743</td><td>buy stop</td><td>99.31 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742088973</td><td>2023.06.06 13:19:23.631</td><td>buy stop</td><td>99.3 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742089221</td><td>2023.06.06 13:19:33.783</td><td>buy stop</td><td>99.29 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742089622</td><td>2023.06.06 13:19:47.397</td><td>buy stop</td><td>99.28 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742090015</td><td>2023.06.06 13:19:59.991</td><td>buy stop</td><td>99.27 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742090358</td><td>2023.06.06 13:20:09.807</td><td>buy stop</td><td>99.26 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742090786</td><td>2023.06.06 13:20:23.434</td><td>buy stop</td><td>99.25 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742091162</td><td>2023.06.06 13:20:33.533</td><td>buy stop</td><td>99.24 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742091455</td><td>2023.06.06 13:20:42.226</td><td>buy stop</td><td>99.23 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742091706</td><td>2023.06.06 13:20:51.564</td><td>buy stop</td><td>99.22 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742092075</td><td>2023.06.06 13:21:05.022</td><td>buy stop</td><td>99.21 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742092413</td><td>2023.06.06 13:21:16.095</td><td>buy stop</td><td>99.2 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742092700</td><td>2023.06.06 13:21:27.689</td><td>buy stop</td><td>99.19 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742093110</td><td>2023.06.06 13:21:40.861</td><td>buy stop</td><td>99.18 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742093480</td><td>2023.06.06 13:21:54.339</td><td>buy stop</td><td>99.17 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742093792</td><td>2023.06.06 13:22:05.322</td><td>buy stop</td><td>99.16 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742094036</td><td>2023.06.06 13:22:14.397</td><td>buy stop</td><td>99.15 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742094304</td><td>2023.06.06 13:22:24.108</td><td>buy stop</td><td>99.14 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742094645</td><td>2023.06.06 13:22:35.384</td><td>buy stop</td><td>99.13 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742095032</td><td>2023.06.06 13:22:47.488</td><td>buy stop</td><td>99.12 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742095489</td><td>2023.06.06 13:23:00.980</td><td>buy stop</td><td>99.11 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742095793</td><td>2023.06.06 13:23:11.743</td><td>buy stop</td><td>99.1 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742096119</td><td>2023.06.06 13:23:21.631</td><td>buy stop</td><td>99.09 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742096552</td><td>2023.06.06 13:23:35.846</td><td>buy stop</td><td>99.08 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742096936</td><td>2023.06.06 13:23:46.787</td><td>buy stop</td><td>99.07 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742097333</td><td>2023.06.06 13:23:57.858</td><td>buy stop</td><td>99.06 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742097787</td><td>2023.06.06 13:24:09.130</td><td>buy stop</td><td>99.05 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742098145</td><td>2023.06.06 13:24:20.585</td><td>buy stop</td><td>99.04 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742098472</td><td>2023.06.06 13:24:32.826</td><td>buy stop</td><td>99.03 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742098815</td><td>2023.06.06 13:24:45.197</td><td>buy stop</td><td>99.02 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742099501</td><td>2023.06.06 13:25:02.573</td><td>buy stop</td><td>99.01 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742099853</td><td>2023.06.06 13:25:12.850</td><td>buy stop</td><td>99 / 0</td><td>1979.06</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742103122</td><td>2023.06.06 13:26:51.716</td><td>buy stop</td><td>99.99 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742104386</td><td>2023.06.06 13:27:30.232</td><td>buy stop</td><td>99.98 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742104649</td><td>2023.06.06 13:27:41.069</td><td>buy stop</td><td>99.97 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742105024</td><td>2023.06.06 13:27:55.306</td><td>buy stop</td><td>99.96 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742105583</td><td>2023.06.06 13:28:12.602</td><td>buy stop</td><td>99.95 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742105932</td><td>2023.06.06 13:28:23.125</td><td>buy stop</td><td>99.94 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742106331</td><td>2023.06.06 13:28:35.565</td><td>buy stop</td><td>99.93 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742106708</td><td>2023.06.06 13:28:46.768</td><td>buy stop</td><td>99.92 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742107714</td><td>2023.06.06 13:29:19.272</td><td>buy stop</td><td>99.91 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742107988</td><td>2023.06.06 13:29:31.535</td><td>buy stop</td><td>99.9 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742108278</td><td>2023.06.06 13:29:44.439</td><td>buy stop</td><td>99.89 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742108576</td><td>2023.06.06 13:29:57.735</td><td>buy stop</td><td>99.88 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742109052</td><td>2023.06.06 13:30:11.419</td><td>buy stop</td><td>99.87 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742109557</td><td>2023.06.06 13:30:28.210</td><td>buy stop</td><td>99.86 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742110211</td><td>2023.06.06 13:30:45.584</td><td>buy stop</td><td>99.85 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742110795</td><td>2023.06.06 13:30:57.635</td><td>buy stop</td><td>99.84 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742111305</td><td>2023.06.06 13:31:07.393</td><td>buy stop</td><td>99.83 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742111804</td><td>2023.06.06 13:31:18.561</td><td>buy stop</td><td>99.82 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742112166</td><td>2023.06.06 13:31:27.847</td><td>buy stop</td><td>99.81 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742112548</td><td>2023.06.06 13:31:38.989</td><td>buy stop</td><td>99.8 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742113253</td><td>2023.06.06 13:31:55.656</td><td>buy stop</td><td>99.79 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742113628</td><td>2023.06.06 13:32:05.816</td><td>buy stop</td><td>99.78 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742114138</td><td>2023.06.06 13:32:19.134</td><td>buy stop</td><td>99.77 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742114646</td><td>2023.06.06 13:32:32.791</td><td>buy stop</td><td>99.76 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742115492</td><td>2023.06.06 13:32:45.263</td><td>buy stop</td><td>99.75 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742116342</td><td>2023.06.06 13:32:54.763</td><td>buy stop</td><td>99.74 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742116906</td><td>2023.06.06 13:33:08.545</td><td>buy stop</td><td>99.73 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742117239</td><td>2023.06.06 13:33:17.736</td><td>buy stop</td><td>99.72 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742117774</td><td>2023.06.06 13:33:27.566</td><td>buy stop</td><td>99.71 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742118200</td><td>2023.06.06 13:33:39.004</td><td>buy stop</td><td>99.7 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742118690</td><td>2023.06.06 13:33:53.841</td><td>buy stop</td><td>99.69 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742119270</td><td>2023.06.06 13:34:03.515</td><td>buy stop</td><td>99.68 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742119725</td><td>2023.06.06 13:34:15.165</td><td>buy stop</td><td>99.67 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742120816</td><td>2023.06.06 13:34:27.353</td><td>buy stop</td><td>99.66 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742122492</td><td>2023.06.06 13:34:38.771</td><td>buy stop</td><td>99.65 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742122960</td><td>2023.06.06 13:34:50.841</td><td>buy stop</td><td>99.64 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742123465</td><td>2023.06.06 13:35:02.117</td><td>buy stop</td><td>99.63 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742123799</td><td>2023.06.06 13:35:10.872</td><td>buy stop</td><td>99.62 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742124195</td><td>2023.06.06 13:35:20.342</td><td>buy stop</td><td>99.61 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742124682</td><td>2023.06.06 13:35:35.084</td><td>buy stop</td><td>99.6 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742125216</td><td>2023.06.06 13:35:46.236</td><td>buy stop</td><td>99.59 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742125658</td><td>2023.06.06 13:35:56.336</td><td>buy stop</td><td>99.58 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742126080</td><td>2023.06.06 13:36:06.713</td><td>buy stop</td><td>99.57 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742126607</td><td>2023.06.06 13:36:18.409</td><td>buy stop</td><td>99.56 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742127069</td><td>2023.06.06 13:36:29.403</td><td>buy stop</td><td>99.55 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742127423</td><td>2023.06.06 13:36:38.703</td><td>buy stop</td><td>99.54 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742127751</td><td>2023.06.06 13:36:48.482</td><td>buy stop</td><td>99.53 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742128116</td><td>2023.06.06 13:36:58.622</td><td>buy stop</td><td>99.52 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742128524</td><td>2023.06.06 13:37:08.058</td><td>buy stop</td><td>99.51 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742128956</td><td>2023.06.06 13:37:19.258</td><td>buy stop</td><td>99.5 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742129338</td><td>2023.06.06 13:37:32.266</td><td>buy stop</td><td>99.49 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742129710</td><td>2023.06.06 13:37:44.333</td><td>buy stop</td><td>99.48 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742130072</td><td>2023.06.06 13:37:53.827</td><td>buy stop</td><td>99.47 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742130536</td><td>2023.06.06 13:38:08.276</td><td>buy stop</td><td>99.46 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742130925</td><td>2023.06.06 13:38:18.054</td><td>buy stop</td><td>99.45 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742131483</td><td>2023.06.06 13:38:32.587</td><td>buy stop</td><td>99.44 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742131809</td><td>2023.06.06 13:38:41.390</td><td>buy stop</td><td>99.43 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742132234</td><td>2023.06.06 13:38:52.471</td><td>buy stop</td><td>99.42 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742132747</td><td>2023.06.06 13:39:05.573</td><td>buy stop</td><td>99.41 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742133222</td><td>2023.06.06 13:39:15.910</td><td>buy stop</td><td>99.4 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742133681</td><td>2023.06.06 13:39:27.730</td><td>buy stop</td><td>99.39 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742134133</td><td>2023.06.06 13:39:39.852</td><td>buy stop</td><td>99.38 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742134473</td><td>2023.06.06 13:39:50.215</td><td>buy stop</td><td>99.37 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742134894</td><td>2023.06.06 13:40:02.618</td><td>buy stop</td><td>99.36 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742135241</td><td>2023.06.06 13:40:12.437</td><td>buy stop</td><td>99.35 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742135584</td><td>2023.06.06 13:40:23.479</td><td>buy stop</td><td>99.34 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742135982</td><td>2023.06.06 13:40:34.372</td><td>buy stop</td><td>99.33 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742136414</td><td>2023.06.06 13:40:47.403</td><td>buy stop</td><td>99.32 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742136800</td><td>2023.06.06 13:40:59.522</td><td>buy stop</td><td>99.31 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742137118</td><td>2023.06.06 13:41:09.762</td><td>buy stop</td><td>99.3 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742137418</td><td>2023.06.06 13:41:20.193</td><td>buy stop</td><td>99.29 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742137705</td><td>2023.06.06 13:41:29.978</td><td>buy stop</td><td>99.28 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742138055</td><td>2023.06.06 13:41:41.196</td><td>buy stop</td><td>99.27 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742138411</td><td>2023.06.06 13:41:52.394</td><td>buy stop</td><td>99.26 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742138790</td><td>2023.06.06 13:42:04.725</td><td>buy stop</td><td>99.25 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742139145</td><td>2023.06.06 13:42:15.941</td><td>buy stop</td><td>99.24 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742139531</td><td>2023.06.06 13:42:29.175</td><td>buy stop</td><td>99.23 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742139853</td><td>2023.06.06 13:42:39.497</td><td>buy stop</td><td>99.22 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742140198</td><td>2023.06.06 13:42:49.204</td><td>buy stop</td><td>99.21 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742140448</td><td>2023.06.06 13:42:59.271</td><td>buy stop</td><td>99.2 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742140932</td><td>2023.06.06 13:43:15.985</td><td>buy stop</td><td>99.19 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742141236</td><td>2023.06.06 13:43:27.492</td><td>buy stop</td><td>99.18 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742141483</td><td>2023.06.06 13:43:36.161</td><td>buy stop</td><td>99.17 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742141798</td><td>2023.06.06 13:43:46.510</td><td>buy stop</td><td>99.16 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742142115</td><td>2023.06.06 13:43:55.407</td><td>buy stop</td><td>99.15 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742142554</td><td>2023.06.06 13:44:06.238</td><td>buy stop</td><td>99.14 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742143010</td><td>2023.06.06 13:44:17.575</td><td>buy stop</td><td>99.13 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742143535</td><td>2023.06.06 13:44:29.785</td><td>buy stop</td><td>99.12 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742143947</td><td>2023.06.06 13:44:40.546</td><td>buy stop</td><td>99.11 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742144274</td><td>2023.06.06 13:44:50.428</td><td>buy stop</td><td>99.1 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742144879</td><td>2023.06.06 13:45:03.655</td><td>buy stop</td><td>99.09 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742145225</td><td>2023.06.06 13:45:13.465</td><td>buy stop</td><td>99.08 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742145541</td><td>2023.06.06 13:45:23.531</td><td>buy stop</td><td>99.07 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742145956</td><td>2023.06.06 13:45:34.521</td><td>buy stop</td><td>99.06 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742146567</td><td>2023.06.06 13:45:48.195</td><td>buy stop</td><td>99.05 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742147007</td><td>2023.06.06 13:45:59.798</td><td>buy stop</td><td>99.04 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742147387</td><td>2023.06.06 13:46:10.614</td><td>buy stop</td><td>99.03 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742147754</td><td>2023.06.06 13:46:20.737</td><td>buy stop</td><td>99.02 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#FFFFFF" align=right><td>XAUUSD</td><td>1742148138</td><td>2023.06.06 13:46:31.305</td><td>buy stop</td><td>99.01 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr bgcolor="#F7F7F7" align=right><td>XAUUSD</td><td>1742148428</td><td>2023.06.06 13:46:41.024</td><td>buy stop</td><td>99 / 0</td><td>1991.99</td><td></td><td>2004.93</td><td>1960.83</td><td colspan="2">placed</td><td colspan="2"></td></tr>
+   <tr align="right">
+      <td colspan="13" style="height: 10px"></td>
+   </tr>
+   <tr align="right">
+     <td colspan="3" style="height: 20px">Balance:</td>
+     <td colspan="2"><b>89 476 480.60</b></td>
+     <td></td>
+     <td colspan="3">Free Margin:</td>
+     <td colspan="2"><b>89 476 480.60</b></td>
+   </tr>
+   <tr align="right">
+     <td colspan="3" style="height: 20px">Credit Facility:</td>
+     <td colspan="2"><b>0.00</b></td>
+     <td></td>
+     <td colspan="3">Margin:</td>
+     <td colspan="2"><b>0.00</b></td>
+   </tr>
+   <tr align="right">
+     <td colspan="3" style="height: 20px">Floating P/L:</td>
+     <td colspan="2"><b>0.00</b></td>
+     <td></td>
+     <td colspan="3">Margin Level:</td>
+     <td colspan="2"><b>0.00%</b></td>
+   </tr>
+   <tr align="right">
+     <td colspan="3" style="height: 20px">Equity:</td>
+     <td colspan="2"><b>89 476 480.60</b></td>
+   </tr>
+</table>
+<table cellspacing="1" cellpadding="3" border="0">
+   <tr align="center">
+      <th colspan="6" style="height: 30px"><b>Exposure</b></th>
+   </tr>
+   <tr align="right" bgcolor="#E5F0FC">
+      <td nowrap style="width: 20px; height: 30px"></td>
+      <td nowrap align="left" style="width: 200px"><b>&nbsp;&nbsp;&nbsp;Assets</b></td>
+      <td nowrap style="width: 80px"><b>Volume</b></td>
+      <td nowrap style="width: 80px"><b>Rate</b></td>
+      <td nowrap style="width: 140px"><b>Currency&nbsp;(USD)</b></td>
+      <td nowrap align="center" style="width: 240px"><b>Graph</b></td>
+   </tr> 
+   <tr bgcolor="#FFFFFF" align=right>
+      <td style="width: 20px">
+        <div style="width:10px;height:10px;background-color:#0000ff;margin:0 auto;"></div>
+      </td>
+      <td align="left">&nbsp;&nbsp;&nbsp;USD</td>
+      <td>8947.64806M</td>
+      <td>1.00</td>
+      <td>89 476 480.60</td>
+      <td style="width: 230px">
+         <div style="margin:0 5%;zoom:1;">
+            <div style="float:left;width:50%;">
+               <div style="height:10px;width:0%;background-color:#ff8080;float:right;"></div>
+            </div>
+            <div style="float:left;width:50%;">
+               <div style="height:10px;width:100%;background-color:#4d6df3;float:left;"></div>
+            </div>
+         </div>
+      </td>
+   </tr>
+   <tr align="right">
+      <td colspan="4" style="height: 30px"></td>
+      <td><b>89 476 480.60</b></td>
+      <td></td>
+   </tr>
+   <tr align="left">
+      <td colspan="6" style="height: 20px">
+   </tr>
+   <tr align="center">
+      <th colspan="4" style="height: 20px"><b>Long Positions</b><br><img src="ReportTrade-70039737-long.png" title="70039737: Long Positions" width=320 height=320 border=0 alt="Graph"></th>
+      <th colspan="2"><b>Short Positions</b><br><img src="ReportTrade-70039737-short.png" title="70039737: Short Positions" width=320 height=320 border=0 alt="Graph"></th>
+   </tr>
+</table>
+</div>
+</body>
+</html>
