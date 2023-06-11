@@ -1,2 +1,0 @@
-# MetaQuotes
-Trade History Report
